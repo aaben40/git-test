@@ -1,2 +1,3 @@
-from datetime import datetime
-print("Hello world")
+from module import obtenir_temps
+
+print(obtenir_temps())
